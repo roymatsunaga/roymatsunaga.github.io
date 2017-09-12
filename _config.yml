@@ -1,1 +1,5 @@
 theme: jekyll-theme-cayman
+name: roymatsunaga.com
+domain: https://roymatsunaga.com
+permalink: pretty
+exclude: [ _styles, node_modules, .git, .gitignore, package.json, .sass-cache ]
