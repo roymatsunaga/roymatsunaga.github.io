@@ -1,6 +1,3 @@
-# gitignore file
-
-# Jekyll-specific items
-_site/
+_site
+.sass-cache
 .jekyll-metadata
-
